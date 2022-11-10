@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Amanda
+This is a hobby project. I'm developing a webshop called Amanda to gain a deeper knowledge of React, Redux, Databases etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
